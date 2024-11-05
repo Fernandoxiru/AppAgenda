@@ -1,7 +1,7 @@
 # **AppAgenda**
 
 ## 📱 Descrição
-o #AppAgenda# tem o objetivo agendar e listar pessoas
+o *AppAgenda* tem o objetivo agendar e listar pessoas
 
 ## 🔧 Funcionalidades
 - [x] Entrada de dados(excluir e atualizar)
