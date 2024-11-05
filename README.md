@@ -82,6 +82,6 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 **Fernandoxiru** - Desenvolvedor - [GitHub](https://github.com/Fernandoxiru)
 
  ## 📄 Licença
-  Este projeto está licenciado sob os termos da licença MIT.detalhes, veja o arquivo [LICENSE]([https://github.com/Fernandoxiru/AppHamburgueria/blob/master/LICENSE](https://github.com/Fernandoxiru/AppAgenda/blob/master/LICENSES). 
+  Este projeto está licenciado sob os termos da licença MIT.detalhes, veja o arquivo (https://github.com/Fernandoxiru/AppAgenda/edit/master/LICENSE). 
   
     
